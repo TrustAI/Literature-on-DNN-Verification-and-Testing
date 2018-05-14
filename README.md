@@ -1,1 +1,1 @@
-# Literature-on-DNN-Verification-and-Testing
+# Literature on DNN Verification and Testing
