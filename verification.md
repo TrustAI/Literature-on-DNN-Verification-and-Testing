@@ -34,6 +34,54 @@
     <th> <a href="https://arxiv.org/abs/1702.01135">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Provable defenses against adversarial examples via the convex outer adversarial polytope </th> 
+    <th> <a href="https://arxiv.org/abs/1711.00851">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Formal Verification of Piece-Wise Linear Feed-Forward Neural Networks </th> 
+    <th> <a href="https://arxiv.org/abs/1705.01320">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Feature-Guided Black-Box Safety Testing of Deep Neural Networks </th> 
+    <th> <a href="https://arxiv.org/abs/1710.07859">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Verification of Binarized Neural Networks via Inter-Neuron Factoring </th> 
+    <th> <a href="https://arxiv.org/abs/1710.03107">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> A Unified View of Piecewise Linear Neural Network Verification </th> 
+    <th> <a href="https://arxiv.org/abs/1711.00455">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Output Range Analysis for Deep Neural Networks </th> 
+    <th> <a href="https://arxiv.org/abs/1709.09130">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for L0 Norm </th> 
+    <th> <a href="https://arxiv.org/abs/1804.05805">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Output Reachable Set Estimation and Verification for Multi-Layer Neural Networks </th> 
+    <th> <a href="https://arxiv.org/abs/1708.03322">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
     
 </table>
 

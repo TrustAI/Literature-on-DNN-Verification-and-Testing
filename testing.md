@@ -24,8 +24,26 @@
   </tr>
   
   <tr>
+    <th class="tg-yw4l"> Deepxplore: Automated whitebox testing of deep learning systems </th> 
+    <th> <a href="https://arxiv.org/abs/1705.06640">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
     <th class="tg-yw4l"> Testing Deep Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1803.04792">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Concolic Testing for Deep Neural Networks </th> 
+    <th> <a href="https://arxiv.org/abs/1805.00089">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> DeepGauge: Comprehensive and Multi-Granularity Testing Criteria for Gauging the Robustness of Deep Learning Systems </th> 
+    <th> <a href="https://arxiv.org/abs/1803.07519">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
     
