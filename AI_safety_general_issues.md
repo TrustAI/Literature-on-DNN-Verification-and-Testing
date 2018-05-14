@@ -25,7 +25,7 @@
   
   <tr>
     <th class="tg-yw4l"> Concrete Problems in AI Safety </th> 
-    <th> <a href="https://arxiv.org/abs/1606.06565">link</a> </th>    
+    <th> <a href="https://arxiv.org/abs/1606.06565" target="_blank">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
     
