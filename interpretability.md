@@ -40,6 +40,12 @@
     <th> <a href="https://arxiv.org/abs/1703.01365">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> A Unified Approach to Interpreting Model Predictions </th> 
+    <th> <a href="https://arxiv.org/abs/1705.07874">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
     
 </table>
 
