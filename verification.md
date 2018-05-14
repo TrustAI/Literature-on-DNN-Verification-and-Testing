@@ -15,7 +15,7 @@
   
   <h2>DNN Verification and Testing: Verification Techniques </h2>
   
-<table class="tg">
+<table class="tg" align="left">
 
   <tr>
     <th class="tg-yw4l"> Title </th> 
