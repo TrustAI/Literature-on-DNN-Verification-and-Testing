@@ -34,6 +34,12 @@
     <th class="tg-yw4l">  </th>   
   </tr>
   
+  <tr>
+    <th class="tg-yw4l"> Challenges in the Verification of Reinforcement Learning Algorithms </th> 
+    <th> <a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170007190.pdf">link</a> </th>  
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
