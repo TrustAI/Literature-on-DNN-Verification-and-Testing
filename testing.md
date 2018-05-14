@@ -1,7 +1,6 @@
 <head>
   <meta charset="utf-8">
 
-  <title>DNN Verification and Testing: Testing Techniques </title>
   <meta name="description" content="DNN Verification and Testing: Attacking Techniques">
   <meta name="author" content="SitePoint">
 
@@ -13,7 +12,6 @@
 </head>
 
 <body>
-  <script src="js/scripts.js"></script>
   
   <h2>DNN Verification and Testing: Testing Techniques </h2>
   
