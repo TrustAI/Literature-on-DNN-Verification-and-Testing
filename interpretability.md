@@ -54,6 +54,12 @@
   </tr>
   
   <tr>
+    <th class="tg-yw4l"> Methods for interpreting and understanding deep neural networks </th> 
+    <th> <a href="https://www.sciencedirect.com/science/article/pii/S1051200417302385">link</a> </th>    
+    <th class="tg-yw4l">   </th>   
+  </tr>
+  
+  <tr>
     <th class="tg-yw4l"> Understanding Black-box Predictions via Influence Functions </th> 
     <th> <a href="https://arxiv.org/abs/1703.04730">link</a> </th>    
     <th class="tg-yw4l">  </th>   
