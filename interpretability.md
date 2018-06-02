@@ -47,6 +47,12 @@
     <th class="tg-yw4l">  </th>   
   </tr>
     
+  <tr>
+    <th class="tg-yw4l"> Explanation and Justification in Machine Learning: A Survey </th> 
+    <th> <a href="http://home.earthlink.net/~dwaha/research/meetings/ijcai17-xai/1.%20(Biran%20&%20Cotton%20XAI-17)%20Explanation%20and%20Justification%20in%20ML%20-%20A%20Survey.pdf">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+    
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
