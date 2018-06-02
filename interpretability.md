@@ -52,6 +52,12 @@
     <th> <a href="http://home.earthlink.net/~dwaha/research/meetings/ijcai17-xai/1.%20(Biran%20&%20Cotton%20XAI-17)%20Explanation%20and%20Justification%20in%20ML%20-%20A%20Survey.pdf">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Using Explanations to Improve Ensembling of Visual Question Answering Systems </th> 
+    <th> <a href="http://home.earthlink.net/~dwaha/research/meetings/ijcai17-xai/7.%20(Rajani%20&%20Mooney%20XAI-17)%20Using%20Explanations%20to%20Improve%20Ensembling%20of%20VQA%20Systems.pdf">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
     
 </table>
 
