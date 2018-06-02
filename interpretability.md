@@ -32,13 +32,19 @@
   <tr>
     <th class="tg-yw4l"> "Why Should I Trust You?": Explaining the Predictions of Any Classifier </th> 
     <th> <a href="https://arxiv.org/abs/1602.04938">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l"> LIME  </th>   
   </tr>
   
   <tr>
     <th class="tg-yw4l"> Rationalizing Neural Predictions </th> 
     <th> <a href="https://arxiv.org/abs/1606.04155">link</a> </th>    
     <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Interpretable Explanations of Black Boxes by Meaningful Perturbation </th> 
+    <th> <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf">link</a> </th>    
+    <th class="tg-yw4l"> LIME  </th>   
   </tr>
   
   <tr>
