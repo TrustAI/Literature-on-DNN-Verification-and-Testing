@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
 
-  <meta name="description" content="Datasets">
+  <meta name="description" content="DNN Verification and Testing: Datasets">
   <meta name="author" content="SitePoint">
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
@@ -13,7 +13,7 @@
 
 <body>
   
-  <h2>DNN Verification and Testing: Attacking Recursive Networks </h2>
+  <h2>DNN Verification and Testing: Datasets</h2>
   
 <table class="tg">
   <tr>
