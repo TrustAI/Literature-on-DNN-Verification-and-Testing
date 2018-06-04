@@ -28,6 +28,12 @@
     <th class="tg-yw4l">  </th>   
   </tr>
 
+  <tr>
+    <th class="tg-yw4l"> BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling </th> 
+    <th> <a href="https://arxiv.org/abs/1805.04687">link</a> </th>  
+    <th class="tg-yw4l">  </th>   
+  </tr>
+
   
 </table>
 
