@@ -27,6 +27,12 @@
     <th> <a href="https://arxiv.org/abs/1702.02284">link</a> </th>  
     <th class="tg-yw4l">  </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Tactics of Adversarial Attack on Deep Reinforcement Learning Agents </th> 
+    <th> <a href="https://arxiv.org/abs/1703.06748">link</a> </th>  
+    <th class="tg-yw4l">  </th>   
+  </tr>
 
   <tr>
     <th class="tg-yw4l"> Robust Adversarial Reinforcement Learning </th> 
