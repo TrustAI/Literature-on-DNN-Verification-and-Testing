@@ -33,10 +33,22 @@
     <th> <a href="https://arxiv.org/abs/1703.06748">link</a> </th>  
     <th class="tg-yw4l">  </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Sequential Attacks on Agents for Long-Term Adversarial Goals </th> 
+    <th> <a href="https://arxiv.org/abs/1805.12487">link</a> </th>  
+    <th class="tg-yw4l">  </th>   
+  </tr>
 
   <tr>
     <th class="tg-yw4l"> Robust Adversarial Reinforcement Learning </th> 
     <th> <a href="https://arxiv.org/abs/1703.02702">link</a> </th>  
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Robust Deep Reinforcement Learning with Adversarial Attacks </th> 
+    <th> <a href="https://arxiv.org/abs/1712.03632">link</a> </th>  
     <th class="tg-yw4l">  </th>   
   </tr>
   
