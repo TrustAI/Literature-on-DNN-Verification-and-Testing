@@ -30,6 +30,12 @@
   </tr>
   
   <tr>
+    <th class="tg-yw4l"> Explanation Methods in Deep Learning: Users, Values, Concerns and Challenges </th> 
+    <th> <a href="https://arxiv.org/abs/1803.07517">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+  
+  <tr>
     <th class="tg-yw4l"> "Why Should I Trust You?": Explaining the Predictions of Any Classifier </th> 
     <th> <a href="https://arxiv.org/abs/1602.04938">link</a> </th>    
     <th class="tg-yw4l"> LIME  </th>   
