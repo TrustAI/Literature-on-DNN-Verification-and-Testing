@@ -84,6 +84,12 @@
   </tr>
   
   <tr>
+    <th class="tg-yw4l"> Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation </th> 
+    <th> <a href="https://arxiv.org/abs/1712.08268">link</a> </th>    
+    <th class="tg-yw4l"> LRP </th>   
+  </tr>
+  
+  <tr>
     <th class="tg-yw4l"> A Unified Approach to Interpreting Model Predictions </th> 
     <th> <a href="https://arxiv.org/abs/1705.07874">link</a> </th>    
     <th class="tg-yw4l"> Shapley </th>   
