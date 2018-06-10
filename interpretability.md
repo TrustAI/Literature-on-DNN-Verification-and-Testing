@@ -100,6 +100,12 @@
     <th> <a href="http://home.earthlink.net/~dwaha/research/meetings/ijcai17-xai/7.%20(Rajani%20&%20Mooney%20XAI-17)%20Using%20Explanations%20to%20Improve%20Ensembling%20of%20VQA%20Systems.pdf">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> A simple neural network module for relational reasoning </th> 
+    <th> <a href="https://arxiv.org/abs/1706.01427">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
     
 </table>
 
