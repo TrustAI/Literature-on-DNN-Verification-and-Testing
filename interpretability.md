@@ -44,7 +44,7 @@
   <tr>
     <th class="tg-yw4l"> Learning Important Features Through Propagating Activation Differences </th> 
     <th> <a href="https://arxiv.org/abs/1704.02685">link</a> </th>    
-    <th class="tg-yw4l"> LIME  </th>   
+    <th class="tg-yw4l"> DeepLIFT  </th>   
   </tr>
   
   <tr>
