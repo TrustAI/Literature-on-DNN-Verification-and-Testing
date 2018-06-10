@@ -26,7 +26,7 @@
   <tr>
     <th class="tg-yw4l"> Safety Verification of Deep Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1610.06940">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l"> DLV </th>   
   </tr>
     
   <tr>
@@ -50,7 +50,7 @@
   <tr>
     <th class="tg-yw4l"> Feature-Guided Black-Box Safety Testing of Deep Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1710.07859">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l"> SafeCV </th>   
   </tr>
   
   <tr>
@@ -74,7 +74,7 @@
   <tr>
     <th class="tg-yw4l"> Global Robustness Evaluation of Deep Neural Networks with Provable Guarantees for L0 Norm </th> 
     <th> <a href="https://arxiv.org/abs/1804.05805">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l"> L0-TRE </th>   
   </tr>
   
   <tr>
@@ -104,7 +104,13 @@
   <tr>
     <th class="tg-yw4l"> Reachability Analysis of Deep Neural Networks with Provable Guarantees </th> 
     <th> <a href="https://arxiv.org/abs/1805.02242">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l"> DeepGO </th>   
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach </th> 
+    <th> <a href="https://openreview.net/forum?id=BkUHlMZ0b">link</a> </th>    
+    <th class="tg-yw4l"> CLEVER </th>   
   </tr>
     
 </table>
