@@ -41,31 +41,31 @@
     <th class="tg-yw4l">  </th>   
   </tr>
   
-    <tr>
+   <tr>
     <th class="tg-yw4l"> Deflecting Adversarial Attacks with Pixel Deflection </th> 
-    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Prakash_Deflecting_Adversarial_Attacks_CVPR_2018_paper.pdf">link</a> </th>    
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Prakash_Deflecting_Adversarial_Attacks_CVPR_2018_paper.pdf">link</a> </th>   
     <th class="tg-yw4l">  </th>   
   </tr>
   
-      <tr>
+   <tr>
     <th class="tg-yw4l"> Defense against Universal Adversarial Perturbations </th> 
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Akhtar_Defense_Against_Universal_CVPR_2018_paper.pdf">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
   
-        <tr>
+   <tr>
     <th class="tg-yw4l"> Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser </th> 
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Defense_Against_Adversarial_CVPR_2018_paper.pdf">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
   
-          <tr>
+   <tr>
     <th class="tg-yw4l"> On the Robustness of Semantic Segmentation Models to Adversarial Attacks </th> 
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Arnab_On_the_Robustness_CVPR_2018_paper.pdf">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
   
-            <tr>
+   <tr>
     <th class="tg-yw4l"> Geometric robustness of deep networks: analysis and improvement </th> 
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Kanbak_Geometric_Robustness_of_CVPR_2018_paper.pdf">link</a> </th>    
     <th class="tg-yw4l">  </th>   
