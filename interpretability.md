@@ -118,6 +118,12 @@
     <th> <a href="http://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
+  
+    <tr>
+    <th class="tg-yw4l"> DeepVoting: A Robust and Explainable Deep Network for Semantic Part Detection under Partial Occlusion</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_DeepVoting_A_Robust_CVPR_2018_paper.pdf">link</a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
     
 </table>
 
