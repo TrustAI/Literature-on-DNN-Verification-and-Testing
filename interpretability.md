@@ -124,6 +124,12 @@
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_DeepVoting_A_Robust_CVPR_2018_paper.pdf">link</a> </th>   
     <th class="tg-yw4l">  </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Learning to Explain: An Information-Theoretic Perspective on Model Interpretation </th> 
+    <th> <a href="https://arxiv.org/pdf/1802.07814.pdf">link</a> </th>   
+    <th class="tg-yw4l"> ICML2018 </th>   
+  </tr>
     
 </table>
 
