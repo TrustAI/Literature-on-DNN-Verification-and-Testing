@@ -112,6 +112,12 @@
     <th> <a href="https://openreview.net/forum?id=BkUHlMZ0b">link</a> </th>    
     <th class="tg-yw4l"> CLEVER </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples1 </th> 
+    <th> <a href="https://arxiv.org/abs/1711.09576">link</a> </th>    
+    <th class="tg-yw4l"> ICML2018 </th>   
+  </tr>
     
 </table>
 
