@@ -124,6 +124,12 @@
     <th> <a href="https://arxiv.org/abs/1804.07193">link</a> </th>    
     <th class="tg-yw4l"> ICML2018 </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Differentiable Abstract Interpretation for Provably Robust Neural Networks </th> 
+    <th> <a href="">link</a> </th>    
+    <th class="tg-yw4l"> ICML2018 </th>   
+  </tr>
     
 </table>
 
