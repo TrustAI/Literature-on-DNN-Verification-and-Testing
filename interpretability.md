@@ -130,6 +130,12 @@
     <th> <a href="https://arxiv.org/pdf/1802.07814.pdf">link</a> </th>   
     <th class="tg-yw4l"> ICML2018 </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Visualizing and Understanding Atari Agents </th> 
+    <th> <a href="https://arxiv.org/pdf/1711.00138.pdf">link</a> </th>   
+    <th class="tg-yw4l"> ICML2018 </th>   
+  </tr>
     
 </table>
 
