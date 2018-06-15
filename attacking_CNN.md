@@ -107,6 +107,11 @@
     <th class="tg-yw4l">  </th> 
   </tr>
   
+   <tr>      
+    <th class="tg-yw4l">  LaVAN: Localized and Visible Adversarial Noise </th> 
+    <th> <a href="https://arxiv.org/pdf/1801.02608.pdf">link</a> </th> 
+    <th class="tg-yw4l"> ICML2018 </th> 
+  </tr>
   
   
 </table>
