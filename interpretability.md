@@ -142,6 +142,12 @@
     <th> <a href="https://arxiv.org/abs/1711.11279">link</a> </th>   
     <th class="tg-yw4l"> ICML2018 </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> MINE: Mutual Information Neural Estimation </th> 
+    <th> <a href="https://arxiv.org/abs/1801.04062">link</a> </th>   
+    <th class="tg-yw4l"> ICML2018 </th>   
+  </tr>
     
 </table>
 
