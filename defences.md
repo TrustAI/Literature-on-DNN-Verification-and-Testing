@@ -70,6 +70,12 @@
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Kanbak_Geometric_Robustness_of_CVPR_2018_paper.pdf">link</a> </th>    
     <th class="tg-yw4l">  </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Provable Defenses against Adversarial Examples via the Convex Outer Adversarial Polytope </th> 
+    <th> <a href="https://arxiv.org/abs/1711.00851">link</a> </th>    
+    <th class="tg-yw4l"> ICML2018  </th>   
+  </tr>
     
 </table>
 
