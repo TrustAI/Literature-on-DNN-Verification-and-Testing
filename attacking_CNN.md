@@ -120,6 +120,12 @@
   </tr>
   
   
+   <tr>      
+    <th class="tg-yw4l"> Black-box Adversarial Attacks with Limited Queries and Information </th> 
+    <th> <a href="https://arxiv.org/abs/1804.08598">link</a> </th> 
+    <th class="tg-yw4l"> ICML2018 </th> 
+  </tr>
+  
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
