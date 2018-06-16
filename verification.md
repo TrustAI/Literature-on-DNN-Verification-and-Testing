@@ -138,6 +138,13 @@
   </tr>
     
     
+  <tr>
+    <th class="tg-yw4l"> A ranking approach to global optimization </th> 
+    <th> <a href="http://proceedings.mlr.press/v48/malherbe16.html">link</a> </th>    
+    <th class="tg-yw4l"> ICML2016 </th>   
+  </tr>
+  
+    
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
