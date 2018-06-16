@@ -76,6 +76,12 @@
     <th> <a href="https://arxiv.org/abs/1711.00851">link</a> </th>    
     <th class="tg-yw4l"> ICML2018  </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Parseval Networks: Improving Robustness to Adversarial Examples </th> 
+    <th> <a href="https://arxiv.org/abs/1704.08847?context=cs">link</a> </th>    
+    <th class="tg-yw4l"> ICML2017  </th>   
+  </tr>
     
 </table>
 
