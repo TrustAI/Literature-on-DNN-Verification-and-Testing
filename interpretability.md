@@ -148,6 +148,12 @@
     <th> <a href="https://arxiv.org/abs/1801.04062">link</a> </th>   
     <th class="tg-yw4l"> ICML2018 </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Understanding the Representation and Computation of Multilayer Perceptrons: A Case Study in Speech Recognition </th> 
+    <th> <a href="http://proceedings.mlr.press/v70/nagamine17a.html">link</a> </th>   
+    <th class="tg-yw4l"> ICML2017 </th>   
+  </tr>
     
 </table>
 
