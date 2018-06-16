@@ -130,6 +130,13 @@
     <th> <a href="">link</a> </th>    
     <th class="tg-yw4l"> ICML2018 </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Global optimization of Lipschitz functions </th> 
+    <th> <a href="http://proceedings.mlr.press/v70/malherbe17a.html">link</a> </th>    
+    <th class="tg-yw4l"> ICML2017 </th>   
+  </tr>
+    
     
 </table>
 

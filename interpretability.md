@@ -74,7 +74,7 @@
   <tr>
     <th class="tg-yw4l"> Understanding Black-box Predictions via Influence Functions </th> 
     <th> <a href="https://arxiv.org/abs/1703.04730">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l"> ICML2017 </th>   
   </tr>
   
   <tr>
