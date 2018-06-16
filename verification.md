@@ -144,6 +144,12 @@
     <th class="tg-yw4l"> ICML2016 </th>   
   </tr>
   
+  <tr>
+    <th class="tg-yw4l"> BASC: Applying Bayesian Optimization to the Search for Global Minima on Potential Energy Surfaces </th> 
+    <th> <a href="http://proceedings.mlr.press/v48/carr16.html">link</a> </th>    
+    <th class="tg-yw4l"> ICML2016 </th>   
+  </tr>
+  
     
 </table>
 
