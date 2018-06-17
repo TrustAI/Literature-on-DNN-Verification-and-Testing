@@ -177,7 +177,15 @@
     <th class="tg-yw4l"> Variational Information Maximization for Feature Selection. </th> 
     <th> <a href="http://papers.nips.cc/paper/6444-variational-information-maximization-for-feature-selection">link</a> </th>   
     <th class="tg-yw4l"> NIPS2016 </th>   
-  </tr>1
+  </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Efficient Nonparametric Smoothness Estimation. </th> 
+    <th> <a href="http://papers.nips.cc/paper/6369-efficient-nonparametric-smoothness-estimation">link</a> </th>   
+    <th class="tg-yw4l"> NIPS2016 </th>   
+  </tr>
+  
+  
     
 </table>
 
