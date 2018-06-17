@@ -167,6 +167,12 @@
     <th> <a href="http://papers.nips.cc/paper/6339-measuring-neural-net-robustness-with-constraints">link</a> </th>    
     <th class="tg-yw4l"> NIPS2017 </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Controllable Invariance through Adversarial Feature Learning. </th> 
+    <th> <a href="http://papers.nips.cc/paper/6661-controllable-invariance-through-adversarial-feature-learning.pdf">link</a> </th>   
+    <th class="tg-yw4l"> NIPS2017 </th>   
+  </tr>
     
 </table>
 
