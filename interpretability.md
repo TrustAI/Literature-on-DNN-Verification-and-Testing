@@ -209,7 +209,12 @@
     <th class="tg-yw4l"> AISTATS2015 </th>   
   </tr>
 
-    
+   <tr>
+    <th class="tg-yw4l"> Estimating Mutual Information by Local Gaussian Approximation. </th> 
+    <th> <a href="https://arxiv.org/abs/1508.00536">link</a> </th>   
+    <th class="tg-yw4l"> UAI2015 </th>   
+  </tr>
+	
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
