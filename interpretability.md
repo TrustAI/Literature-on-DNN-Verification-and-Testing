@@ -196,6 +196,12 @@
     <th> <a href="http://papers.nips.cc/paper/6181-learning-influence-functions-from-incomplete-observations">link</a> </th>   
     <th class="tg-yw4l"> NIPS2016 </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Breaking the Bandwidth Barrier: Geometrical Adaptive Entropy Estimation. </th> 
+    <th> <a href="http://papers.nips.cc/paper/6299-breaking-the-bandwidth-barrier-geometrical-adaptive-entropy-estimation">link</a> </th>   
+    <th class="tg-yw4l"> NIPS2016 </th>   
+  </tr>
     
 </table>
 
