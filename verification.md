@@ -150,6 +150,12 @@
     <th class="tg-yw4l"> ICML2016 </th>   
   </tr>
   
+  <tr>
+    <th class="tg-yw4l"> Lower bounds on the robustness to adversarial perturbations </th> 
+    <th> <a href="http://papers.nips.cc/paper/6682-lower-bounds-on-the-robustness-to-adversarial-perturbations">link</a> </th>    
+    <th class="tg-yw4l"> NIPS2017 </th>   
+  </tr>
+  
     
 </table>
 
