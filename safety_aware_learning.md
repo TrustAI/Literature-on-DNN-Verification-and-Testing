@@ -29,7 +29,11 @@
     <th class="tg-yw4l"> NIPS2017 </th>   
   </tr>
   
-
+  <tr>
+    <th class="tg-yw4l"> Safe Exploration in Finite Markov Decision Processes with Gaussian Processes </th> 
+    <th> <a href="http://papers.nips.cc/paper/6358-safe-exploration-in-finite-markov-decision-processes-with-gaussian-processes">link</a> </th>    
+    <th class="tg-yw4l"> NIPS2017 </th>   
+  </tr>
     
 </table>
 
