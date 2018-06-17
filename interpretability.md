@@ -202,6 +202,12 @@
     <th> <a href="http://papers.nips.cc/paper/6299-breaking-the-bandwidth-barrier-geometrical-adaptive-entropy-estimation">link</a> </th>   
     <th class="tg-yw4l"> NIPS2016 </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Efficient Estimation of Mutual Information for Strongly Dependent Variables. </th> 
+    <th> <a href="http://proceedings.mlr.press/v38/gao15.pdf">link</a> </th>   
+    <th class="tg-yw4l"> AISTATS2015 </th>   
+  </tr>
     
 </table>
 
