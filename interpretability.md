@@ -185,7 +185,11 @@
     <th class="tg-yw4l"> NIPS2016 </th>   
   </tr>
   
-  
+   <tr>
+    <th class="tg-yw4l"> Finite-Sample Analysis of Fixed-k Nearest Neighbor Density Functional Estimators. </th> 
+    <th> <a href="http://papers.nips.cc/paper/6123-finite-sample-analysis-of-fixed-k-nearest-neighbor-density-functional-estimators">link</a> </th>   
+    <th class="tg-yw4l"> NIPS2016 </th>   
+  </tr>
     
 </table>
 
