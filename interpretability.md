@@ -166,6 +166,12 @@
     <th> <a href="http://papers.nips.cc/paper/7180-estimating-mutual-information-for-discrete-continuous-mixtures">link</a> </th>   
     <th class="tg-yw4l"> NIPS2017 </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Interpretable Distribution Features with Maximum Testing Power. </th> 
+    <th> <a href="http://papers.nips.cc/paper/6148-interpretable-distribution-features-with-maximum-testing-power">link</a> </th>   
+    <th class="tg-yw4l"> NIPS2016 </th>   
+  </tr>
     
 </table>
 
