@@ -156,6 +156,11 @@
     <th class="tg-yw4l"> NIPS2017 </th>   
   </tr>
   
+  <tr>
+    <th class="tg-yw4l"> Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation </th> 
+    <th> <a href="http://papers.nips.cc/paper/6821-formal-guarantees-on-the-robustness-of-a-classifier-against-adversarial-manipulation">link</a> </th>    
+    <th class="tg-yw4l"> NIPS2017 </th>   
+  </tr>
     
 </table>
 
