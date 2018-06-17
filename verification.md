@@ -161,6 +161,12 @@
     <th> <a href="http://papers.nips.cc/paper/6821-formal-guarantees-on-the-robustness-of-a-classifier-against-adversarial-manipulation">link</a> </th>    
     <th class="tg-yw4l"> NIPS2017 </th>   
   </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> Measuring Neural Net Robustness with Constraints </th> 
+    <th> <a href="http://papers.nips.cc/paper/6339-measuring-neural-net-robustness-with-constraints">link</a> </th>    
+    <th class="tg-yw4l"> NIPS2017 </th>   
+  </tr>
     
 </table>
 

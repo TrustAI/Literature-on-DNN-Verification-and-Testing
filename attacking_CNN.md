@@ -126,6 +126,12 @@
     <th class="tg-yw4l"> ICML2018 </th> 
   </tr>
   
+   <tr>      
+    <th class="tg-yw4l"> Robustness of classifiers: from adversarial to random noise </th> 
+    <th> <a href="http://papers.nips.cc/paper/6331-robustness-of-classifiers-from-adversarial-to-random-noise">link</a> </th> 
+    <th class="tg-yw4l"> NIPS2016 </th> 
+  </tr>
+  
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
