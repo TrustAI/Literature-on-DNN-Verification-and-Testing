@@ -92,7 +92,7 @@
   <tr>
     <th class="tg-yw4l"> A Unified Approach to Interpreting Model Predictions </th> 
     <th> <a href="https://arxiv.org/abs/1705.07874">link</a> </th>    
-    <th class="tg-yw4l"> Shapley </th>   
+    <th class="tg-yw4l"> NIPS2017, Shapley </th>   
   </tr>
     
   <tr>
@@ -159,6 +159,12 @@
     <th class="tg-yw4l"> Nonparanormal Information Estimation </th> 
     <th> <a href="http://proceedings.mlr.press/v70/singh17a.html">link</a> </th>   
     <th class="tg-yw4l"> ICML2017 </th>   
+  </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Estimating Mutual Information for Discrete-Continuous Mixtures. </th> 
+    <th> <a href="http://papers.nips.cc/paper/7180-estimating-mutual-information-for-discrete-continuous-mixtures">link</a> </th>   
+    <th class="tg-yw4l"> NIPS2017 </th>   
   </tr>
     
 </table>
