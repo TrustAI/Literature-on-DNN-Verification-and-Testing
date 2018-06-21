@@ -26,13 +26,13 @@
   <tr>
     <th class="tg-yw4l"> Safety Verification of Deep Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1610.06940">link</a> </th>    
-    <th class="tg-yw4l"> DLV </th>   
+    <th class="tg-yw4l"> DLV; CAV2018 </th>   
   </tr>
     
   <tr>
     <th class="tg-yw4l"> Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1702.01135">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l">  CAV2018 </th>   
   </tr>
   
   <tr>
@@ -56,7 +56,7 @@
   <tr>
     <th class="tg-yw4l"> Feature-Guided Black-Box Safety Testing of Deep Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1710.07859">link</a> </th>    
-    <th class="tg-yw4l"> SafeCV </th>   
+    <th class="tg-yw4l"> SafeCV; TACAS2018 </th>   
   </tr>
   
   <tr>
@@ -80,7 +80,7 @@
   <tr>
     <th class="tg-yw4l"> Output Range Analysis for Deep Feedforward Neural Networks </th> 
     <th> <a href="https://pdfs.semanticscholar.org/d2df/6969b185a4017048f996d0e7cd1859c24e67.pdf?_ga=2.213261138.75527587.1529600372-1684338043.1526379056">link</a> </th>    
-    <th class="tg-yw4l"> NFM 2018 </th>   
+    <th class="tg-yw4l"> NFM2018 </th>   
   </tr>
   
   <tr>
@@ -186,12 +186,6 @@
     <th class="tg-yw4l"> NIPS2017 </th>   
   </tr>
 
-   <tr>
-    <th class="tg-yw4l"> Maximum Resilience of Artificial Neural Networks. </th> 
-    <th> <a href="https://arxiv.org/pdf/1705.01040.pdf">link</a> </th>   
-    <th class="tg-yw4l"> ATVA017 </th>   
-  </tr>
-    
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
