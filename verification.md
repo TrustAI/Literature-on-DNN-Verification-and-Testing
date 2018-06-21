@@ -44,13 +44,13 @@
   <tr>
     <th class="tg-yw4l"> Formal Verification of Piece-Wise Linear Feed-Forward Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1705.01320">link</a> </th>    
-    <th class="tg-yw4l"> ATVA017 </th>   
+    <th class="tg-yw4l"> ATVA2017 </th>   
   </tr>
 
    <tr>
     <th class="tg-yw4l"> Maximum Resilience of Artificial Neural Networks. </th> 
     <th> <a href="https://arxiv.org/pdf/1705.01040.pdf">link</a> </th>   
-    <th class="tg-yw4l"> ATVA017 </th>   
+    <th class="tg-yw4l"> ATVA2017 </th>   
   </tr>
     
   <tr>
