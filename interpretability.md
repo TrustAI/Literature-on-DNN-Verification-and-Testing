@@ -215,6 +215,12 @@
     <th class="tg-yw4l"> UAI2015 </th>   
   </tr>
 	
+   <tr>
+    <th class="tg-yw4l"> On Learning Sparse Boolean Formulae For Explaining AI Decisions. </th> 
+    <th> <a href="http://susmitjha.github.io/papers/nasafm17-sparseboollearn.pdf">link</a> </th>   
+    <th class="tg-yw4l"> NFM2017 </th>   
+  </tr>
+	
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
