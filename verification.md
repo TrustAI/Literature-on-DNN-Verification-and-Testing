@@ -44,9 +44,15 @@
   <tr>
     <th class="tg-yw4l"> Formal Verification of Piece-Wise Linear Feed-Forward Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1705.01320">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l"> ATVA017 </th>   
   </tr>
-  
+
+   <tr>
+    <th class="tg-yw4l"> Maximum Resilience of Artificial Neural Networks. </th> 
+    <th> <a href="https://arxiv.org/pdf/1705.01040.pdf">link</a> </th>   
+    <th class="tg-yw4l"> ATVA017 </th>   
+  </tr>
+    
   <tr>
     <th class="tg-yw4l"> Feature-Guided Black-Box Safety Testing of Deep Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1710.07859">link</a> </th>    
@@ -69,6 +75,12 @@
     <th class="tg-yw4l"> Output Range Analysis for Deep Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1709.09130">link</a> </th>    
     <th class="tg-yw4l">  </th>   
+  </tr>
+
+  <tr>
+    <th class="tg-yw4l"> Output Range Analysis for Deep Feedforward Neural Networks </th> 
+    <th> <a href="https://pdfs.semanticscholar.org/d2df/6969b185a4017048f996d0e7cd1859c24e67.pdf?_ga=2.213261138.75527587.1529600372-1684338043.1526379056">link</a> </th>    
+    <th class="tg-yw4l"> NFM 2018 </th>   
   </tr>
   
   <tr>
@@ -172,6 +184,12 @@
     <th class="tg-yw4l"> Controllable Invariance through Adversarial Feature Learning. </th> 
     <th> <a href="http://papers.nips.cc/paper/6661-controllable-invariance-through-adversarial-feature-learning.pdf">link</a> </th>   
     <th class="tg-yw4l"> NIPS2017 </th>   
+  </tr>
+
+   <tr>
+    <th class="tg-yw4l"> Maximum Resilience of Artificial Neural Networks. </th> 
+    <th> <a href="https://arxiv.org/pdf/1705.01040.pdf">link</a> </th>   
+    <th class="tg-yw4l"> ATVA017 </th>   
   </tr>
     
 </table>
