@@ -37,7 +37,7 @@
   <tr>      
     <th class="tg-yw4l"> The Limitations of Deep Learning in Adversarial Settings </th> 
     <th> <a href="https://arxiv.org/abs/1511.07528">link</a> </th> 
-    <th class="tg-yw4l">  </th> 
+    <th class="tg-yw4l">  Euro S&P 2016 </th> 
   </tr>
   
   <tr>      
@@ -49,7 +49,7 @@
   <tr>      
     <th class="tg-yw4l"> Towards Evaluating the Robustness of Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1608.04644">link</a> </th> 
-    <th class="tg-yw4l">  </th> 
+    <th class="tg-yw4l">  S&P2017 </th> 
   </tr>
   
   <tr>      

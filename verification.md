@@ -117,7 +117,7 @@
   <tr>
     <th class="tg-yw4l"> AI2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation </th> 
     <th> <a href="http://ai2.ethz.ch/files/ai2.pdf">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l">  S&P2018 </th>   
   </tr>
   
   <tr>
@@ -191,6 +191,12 @@
     <th class="tg-yw4l"> Controllable Invariance through Adversarial Feature Learning. </th> 
     <th> <a href="http://papers.nips.cc/paper/6661-controllable-invariance-through-adversarial-feature-learning.pdf">link</a> </th>   
     <th class="tg-yw4l"> NIPS2017 </th>   
+  </tr>
+
+   <tr>
+    <th class="tg-yw4l"> Formal Security Analysis of Neural Networks using Symbolic Intervals. </th> 
+    <th> <a href="https://arxiv.org/pdf/1804.10829.pdf">link</a> </th>   
+    <th class="tg-yw4l"> USENIX Security 2018 </th>   
   </tr>
 
 </table>

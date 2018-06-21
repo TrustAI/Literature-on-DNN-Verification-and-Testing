@@ -28,6 +28,12 @@
     <th class="tg-yw4l">  </th>   
   </tr>
 
+  <tr>
+    <th class="tg-yw4l"> Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning </th> 
+    <th> <a href="https://arxiv.org/pdf/1804.00308.pdf">link</a> </th>  
+    <th class="tg-yw4l">  S&P2018 </th>   
+  </tr>
+
   
 </table>
 

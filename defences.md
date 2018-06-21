@@ -26,7 +26,7 @@
   <tr>
     <th class="tg-yw4l"> Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks </th> 
     <th> <a href="https://arxiv.org/abs/1511.04508">link</a> </th>    
-    <th class="tg-yw4l">  </th>   
+    <th class="tg-yw4l">  S&P2016 </th>   
   </tr>
   
   <tr>
@@ -82,6 +82,13 @@
     <th> <a href="https://arxiv.org/abs/1704.08847?context=cs">link</a> </th>    
     <th class="tg-yw4l"> ICML2017  </th>   
   </tr>
+
+   <tr>      
+    <th class="tg-yw4l"> Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks </th> 
+    <th> <a href="https://arxiv.org/pdf/1704.01155.pdf">link</a> </th> 
+    <th class="tg-yw4l"> NDSS2018 </th> 
+  </tr>
+  
     
 </table>
 
