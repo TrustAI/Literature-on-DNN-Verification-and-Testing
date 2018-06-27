@@ -226,6 +226,81 @@
     <th> <a href="http://susmitjha.github.io/papers/nasafm17-sparseboollearn.pdf">link</a> </th>   
     <th class="tg-yw4l"> NFM2017 </th>   
   </tr>
+  
+   <tr>
+    <th class="tg-yw4l"> Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality</th> 
+    <th> <a href="https://arxiv.org/abs/1801.02613">link</a> </th>   
+    <th class="tg-yw4l">ICLR2018</th>   
+  </tr> 
+
+   <tr>
+    <th class="tg-yw4l"> Decision Boundary Analysis of Adversarial Examples </th> 
+    <th> <a href="https://openreview.net/forum?id=BkpiPMbA-">link</a> </th>   
+    <th class="tg-yw4l">ICLR2018</th>   
+  </tr> 
+  
+   <tr>
+    <th class="tg-yw4l"> Intriguing Properties of Adversarial Examples </th> 
+    <th> <a href="https://arxiv.org/abs/1711.02846">link</a> </th>   
+    <th class="tg-yw4l">ICLR2018</th>   
+  </tr> 
+  
+   <tr>
+    <th class="tg-yw4l"> Robustness of Classifiers to Universal Perturbations - A Geometric Perspective </th> 
+    <th> <a href="https://openreview.net/forum?id=ByrZyglCb">link</a> </th>   
+    <th class="tg-yw4l">ICLR2018</th>   
+  </tr> 
+  
+  <tr>
+    <th class="tg-yw4l"> On the Limitation of Local Intrinsic Dimensionality for Characterizing the Subspaces of Adversarial Examples </th> 
+    <th> <a href="https://arxiv.org/abs/1803.09638">link</a> </th>   
+    <th class="tg-yw4l">ICLR2018</th>   
+  </tr> 
+  
+   <tr>
+    <th class="tg-yw4l"> Efficient Representation of Low-Dimensional Manifolds using Deep Networks </th> 
+    <th> <a href="https://arxiv.org/abs/1602.04723">link</a> </th>   
+    <th class="tg-yw4l">ICLR2017</th>   
+  </tr> 
+  
+   <tr>
+    <th class="tg-yw4l"> Understanding deep learning requires rethinking generalization </th> 
+    <th> <a href="https://arxiv.org/abs/1611.03530">link</a> </th>   
+    <th class="tg-yw4l">ICLR2017</th>   
+  </tr> 
+  
+  <tr>
+    <th class="tg-yw4l"> Why Deep Neural Networks for Function Approximation </th> 
+    <th> <a href="https://arxiv.org/abs/1610.04161">link</a> </th>   
+    <th class="tg-yw4l">ICLR2017</th>   
+  </tr> 
+  
+  <tr>
+    <th class="tg-yw4l"> Digging Deep into the layers of CNNs - In Search of How CNNs Achieve View Invariance </th> 
+    <th> <a href="https://arxiv.org/abs/1508.01983">link</a> </th>   
+    <th class="tg-yw4l">ICLR2016</th>   
+  </tr> 
+  
+  <tr>
+    <th class="tg-yw4l"> Data Representation and Compression Using Linear-Programming Approximations </th> 
+    <th> <a href="https://arxiv.org/abs/1511.06606">link</a> </th>   
+    <th class="tg-yw4l">ICLR2016</th>   
+  </tr> 
+  
+  <tr>
+    <th class="tg-yw4l"> The local low-dimensionality of natural images </th> 
+    <th> <a href="https://arxiv.org/abs/1412.6626">link</a> </th>   
+    <th class="tg-yw4l">ICLR2015</th>   
+  </tr> 
+  
+  <tr>
+    <th class="tg-yw4l"> Transformation Properties of Learned Visual Representations </th> 
+    <th> <a href="https://arxiv.org/abs/1412.7659">link</a> </th>   
+    <th class="tg-yw4l">ICLR2015</th>   
+  </tr> 
+  
+  
+  
 	
 </table>
 
