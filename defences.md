@@ -149,6 +149,12 @@
     <th> <a href="https://arxiv.org/abs/1702.04267">link</a> </th> 
     <th class="tg-yw4l"> ICLR2017 </th> 
   </tr>
+  
+  <tr>      
+    <th class="tg-yw4l">Adversary Resistant Deep Neural Networks with an Application to Malware Detection</th> 
+    <th> <a href="https://arxiv.org/abs/1610.01239">link</a> </th> 
+    <th class="tg-yw4l"> KDD2017 </th> 
+  </tr>
     	
 	
 </table>

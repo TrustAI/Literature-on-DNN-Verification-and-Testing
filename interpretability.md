@@ -299,8 +299,36 @@
     <th class="tg-yw4l">ICLR2015</th>   
   </tr> 
   
+  <tr>
+    <th class="tg-yw4l"> Factorized sparse learning models with interpretable high order feature interactions</th> 
+    <th> <a href="https://dl.acm.org/citation.cfm?id=2623747">link</a> </th>   
+    <th class="tg-yw4l">KDD14</th>   
+  </tr> 
+  
+   <tr>
+    <th class="tg-yw4l"> Interpretable Decision Sets- A Joint Framework for Description and Prediction</th> 
+    <th> <a href="https://dl.acm.org/citation.cfm?id=2939672.2939874">link</a> </th>   
+    <th class="tg-yw4l">KDD16</th>   
+  </tr> 
   
   
+   <tr>
+    <th class="tg-yw4l"> Interpretable Predictions of Tree-based Ensembles via Actionable Feature Tweaking</th> 
+    <th> <a href="https://arxiv.org/abs/1706.06691">link</a> </th>   
+    <th class="tg-yw4l">KDD17</th>   
+  </tr> 
+  
+   <tr>
+    <th class="tg-yw4l"> Utilizing temporal patterns for estimating uncertainty in interpretable early decision making</th> 
+    <th> <a href="https://dl.acm.org/citation.cfm?id=2623694">link</a> </th>   
+    <th class="tg-yw4l">KDD14</th>   
+  </tr> 
+  
+  <tr>
+    <th class="tg-yw4l"> Why Should I Trust You- Explaining the Predictions of Any Classifier</th> 
+    <th> <a href="https://arxiv.org/abs/1602.04938">link</a> </th>   
+    <th class="tg-yw4l">KDD16</th>   
+  </tr> 
 	
 </table>
 
