@@ -132,6 +132,66 @@
     <th class="tg-yw4l"> NIPS2016 </th> 
   </tr>
   
+   <tr>      
+    <th class="tg-yw4l"> Attacking Binarized Neural Networks </th> 
+    <th> <a href="https://arxiv.org/abs/1711.00449">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l">Decision-Based Adversarial Attacks- Reliable Attacks Against Black-Box Machine Learning Models</th> 
+    <th> <a href="https://arxiv.org/abs/1712.04248">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+    <tr>      
+    <th class="tg-yw4l">Generating Natural Adversarial Examples</th> 
+    <th> <a href="https://arxiv.org/abs/1710.11342">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+    <tr>      
+    <th class="tg-yw4l">Spatially Transformed Adversarial Examples</th> 
+    <th> <a href="https://arxiv.org/abs/1801.02612">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l">A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks</th> 
+    <th> <a href="https://arxiv.org/abs/1610.02136">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2017 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l">Adversarial examples in the physical world</th> 
+    <th> <a href="https://arxiv.org/abs/1607.02533">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2017 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l">Delving into Transferable Adversarial Examples and Black-box Attacks</th> 
+    <th> <a href="https://arxiv.org/abs/1611.02770">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2017 </th> 
+  </tr>
+  
+    <tr>      
+    <th class="tg-yw4l">Adversarial Manipulation of Deep Representations</th> 
+    <th> <a href="https://arxiv.org/abs/1511.05122">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2016 </th> 
+  </tr>
+  
+    <tr>      
+    <th class="tg-yw4l">Explaining and Harnessing Adversarial Examples</th> 
+    <th> <a href="https://arxiv.org/abs/1412.6572">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2015 </th> 
+  </tr>
+  
+    <tr>      
+    <th class="tg-yw4l">Intriguing properties of neural networks</th> 
+    <th> <a href="https://arxiv.org/abs/1312.6199">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2014 </th> 
+  </tr>
+  
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
