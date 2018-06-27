@@ -89,7 +89,68 @@
     <th class="tg-yw4l"> NDSS2018 </th> 
   </tr>
   
+   <tr>      
+    <th class="tg-yw4l"> Certified Defenses against Adversarial Examples </th> 
+    <th> <a href="https://arxiv.org/abs/1801.09344">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l"> Combating Adversarial Attacks Using Sparse Representations </th> 
+    <th> <a href="https://arxiv.org/abs/1803.03880">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l"> Countering Adversarial Images using Input Transformations </th> 
+    <th> <a href="https://arxiv.org/abs/1711.00117">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l">Defense-GAN- Protecting Classifiers Against Adversarial Attacks Using Generative Models </th> 
+    <th> <a href="https://arxiv.org/abs/1805.06605">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l">Ensemble Adversarial Training- Attacks and Defenses</th> 
+    <th> <a href="https://arxiv.org/abs/1705.07204">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l">Mitigating Adversarial Effects Through Randomization</th> 
+    <th> <a href="https://arxiv.org/abs/1711.01991">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+  
+   <tr>      
+    <th class="tg-yw4l">Stochastic Activation Pruning for Robust Adversarial Defense</th> 
+    <th> <a href="https://arxiv.org/abs/1803.01442">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
     
+   <tr>      
+    <th class="tg-yw4l">Thermometer Encoding- One Hot Way To Resist Adversarial Examples</th> 
+    <th> <a href="https://openreview.net/forum?id=S18Su--CW">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+    
+   <tr>      
+    <th class="tg-yw4l">Towards Deep Learning Models Resistant to Adversarial Attacks</th> 
+    <th> <a href="https://arxiv.org/abs/1706.06083">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2018 </th> 
+  </tr>
+  
+   <tr>      
+    <th class="tg-yw4l">On Detecting Adversarial Perturbations</th> 
+    <th> <a href="https://arxiv.org/abs/1702.04267">link</a> </th> 
+    <th class="tg-yw4l"> ICLR2017 </th> 
+  </tr>
+    	
+	
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
