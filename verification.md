@@ -202,13 +202,13 @@
    <tr>
     <th class="tg-yw4l"> Evaluating the Robustness of Neural Networks - An Extreme Value Theory Approach </th> 
     <th> <a href="https://arxiv.org/abs/1801.10578">link</a> </th>   
-    <th class="tg-yw4l"> ICML2018 </th>   
+    <th class="tg-yw4l"> ICLR2018 </th>   
   </tr>
   
    <tr>
     <th class="tg-yw4l"> A Theoretical Framework for Robustness of (Deep) Classifiers against Adversarial Samples </th> 
     <th> <a href="https://arxiv.org/abs/1612.00334">link</a> </th>   
-    <th class="tg-yw4l"> ICML2017 </th>   
+    <th class="tg-yw4l"> ICLR2017 </th>   
   </tr>
   
   
