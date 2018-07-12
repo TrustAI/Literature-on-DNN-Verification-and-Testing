@@ -74,7 +74,7 @@
   <tr>
     <th class="tg-yw4l"> Automated Directed Fairness Testing </th> 
     <th> <a href="https://arxiv.org/pdf/1807.00468.pdf">link</a> </th>    
-    <th class="tg-yw4l">  MET2017 </th>   
+    <th class="tg-yw4l"> </th>   
   </tr>
     
 </table>
