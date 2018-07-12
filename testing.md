@@ -66,8 +66,14 @@
   </tr>
     
   <tr>
-    <th class="tg-yw4l"> Validating a deep learning framework by metamorphic testin </th> 
+    <th class="tg-yw4l"> Validating a deep learning framework by metamorphic testing </th> 
     <th> <a href="https://www.cs.montana.edu/met17/deepLearning.pdf">link</a> </th>    
+    <th class="tg-yw4l">  MET2017 </th>   
+  </tr>
+    
+  <tr>
+    <th class="tg-yw4l"> Automated Directed Fairness Testing </th> 
+    <th> <a href="https://arxiv.org/pdf/1807.00468.pdf">link</a> </th>    
     <th class="tg-yw4l">  MET2017 </th>   
   </tr>
     
