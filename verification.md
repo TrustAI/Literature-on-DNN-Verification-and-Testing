@@ -211,7 +211,11 @@
     <th class="tg-yw4l"> ICLR2017 </th>   
   </tr>
   
-  
+   <tr>
+    <th class="tg-yw4l"> Towards Fast Computation of Certified Robustness for ReLU Networks </th> 
+    <th> <a href="https://arxiv.org/abs/1804.09699">link</a> </th>   
+    <th class="tg-yw4l"> ICML2018 </th>   
+  </tr>
 
 </table>
 
