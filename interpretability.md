@@ -341,6 +341,12 @@
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Palacio_What_Do_Deep_CVPR_2018_paper.pdf">link</a> </th>   
     <th class="tg-yw4l">CVPR2018</th>   
   </tr> 
+
+  <tr>
+    <th class="tg-yw4l"> Perturbative Neural Networks</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Juefei-Xu_Perturbative_Neural_Networks_CVPR_2018_paper.pdf">link</a> </th>   
+    <th class="tg-yw4l">CVPR2018</th>   
+  </tr> 
 	
 </table>
 
