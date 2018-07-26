@@ -353,6 +353,12 @@
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Fawzi_Empirical_Study_of_CVPR_2018_paper.pdf">link</a> </th>   
     <th class="tg-yw4l">CVPR2018</th>   
   </tr> 
+
+  <tr>
+    <th class="tg-yw4l"> Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Fong_Net2Vec_Quantifying_and_CVPR_2018_paper.pdf">link</a> </th>   
+    <th class="tg-yw4l">CVPR2018</th>   
+  </tr> 
 	
 </table>
 
