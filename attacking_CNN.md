@@ -191,6 +191,12 @@
     <th> <a href="https://arxiv.org/abs/1312.6199">link</a> </th> 
     <th class="tg-yw4l"> ICLR2014 </th> 
   </tr>
+
+   <tr>      
+    <th class="tg-yw4l">NAG: Network for Adversary Generation</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Mopuri_NAG_Network_for_CVPR_2018_paper.pdf">link</a> </th> 
+    <th class="tg-yw4l"> CVPR2018 </th> 
+  </tr>
   
 </table>
 
