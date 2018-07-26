@@ -186,6 +186,12 @@
     <th class="tg-yw4l"> CVPR2018 </th> 
   </tr>
 
+  <tr>      
+    <th class="tg-yw4l">SafetyNet: Detecting and Rejecting Adversarial Examples Robustly</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Lu_SafetyNet_Detecting_and_ICCV_2017_paper.pdf">link</a> </th> 
+    <th class="tg-yw4l"> ICCV2017 </th> 
+  </tr>
+
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
