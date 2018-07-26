@@ -58,6 +58,12 @@
     <th class="tg-yw4l"> CVPR2018 </th>   
   </tr>
 
+  <tr>
+    <th class="tg-yw4l"> AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions </th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Gu_AVA_A_Video_CVPR_2018_paper.pdf">link</a> </th>  
+    <th class="tg-yw4l"> CVPR2018 </th>   
+  </tr>
+
   
 </table>
 
