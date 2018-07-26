@@ -197,6 +197,12 @@
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Mopuri_NAG_Network_for_CVPR_2018_paper.pdf">link</a> </th> 
     <th class="tg-yw4l"> CVPR2018 </th> 
   </tr>
+
+   <tr>      
+    <th class="tg-yw4l">Generative Adversarial Perturbations</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.pdf">link</a> </th> 
+    <th class="tg-yw4l"> CVPR2018 </th> 
+  </tr>
   
 </table>
 
