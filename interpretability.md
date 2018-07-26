@@ -365,6 +365,12 @@
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf">link</a> </th>   
     <th class="tg-yw4l">CVPR2018</th>   
   </tr> 
+
+  <tr>
+    <th class="tg-yw4l"> Interpret Neural Networks by Identifying Critical Data Routing Paths</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Interpret_Neural_Networks_CVPR_2018_paper.pdf">link</a> </th>   
+    <th class="tg-yw4l">CVPR2018</th>   
+  </tr> 
 	
 </table>
 
