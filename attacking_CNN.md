@@ -227,6 +227,12 @@
     <th> <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Metzen_Universal_Adversarial_Perturbations_ICCV_2017_paper.pdf">link</a> </th> 
     <th class="tg-yw4l"> ICCV2017 </th> 
   </tr>
+
+   <tr>      
+    <th class="tg-yw4l">Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Adversarial_Examples_Detection_ICCV_2017_paper.pdf">link</a> </th> 
+    <th class="tg-yw4l"> ICCV2017 </th> 
+  </tr>
   
 </table>
 
