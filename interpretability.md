@@ -329,6 +329,12 @@
     <th> <a href="https://arxiv.org/abs/1602.04938">link</a> </th>   
     <th class="tg-yw4l">KDD16</th>   
   </tr> 
+
+  <tr>
+    <th class="tg-yw4l"> Towards a Mathematical Understanding of the Difficulty in Learning With Feedforward Neural Networks</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Towards_a_Mathematical_CVPR_2018_paper.pdf">link</a> </th>   
+    <th class="tg-yw4l">CVPR2018</th>   
+  </tr> 
 	
 </table>
 
