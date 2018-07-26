@@ -168,6 +168,12 @@
     <th class="tg-yw4l"> CVPR2018 </th> 
   </tr>
 
+  <tr>      
+    <th class="tg-yw4l">Defense Against Universal Adversarial Perturbations</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Akhtar_Defense_Against_Universal_CVPR_2018_paper.pdf">link</a> </th> 
+    <th class="tg-yw4l"> CVPR2018 </th> 
+  </tr>
+
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
