@@ -34,6 +34,12 @@
     <th class="tg-yw4l">  </th>   
   </tr>
 
+  <tr>
+    <th class="tg-yw4l"> WILDTRACK: A Multi-Camera HD Dataset for Dense Unscripted Pedestrian Detection </th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Chavdarova_WILDTRACK_A_Multi-Camera_CVPR_2018_paper.pdf">link</a> </th>  
+    <th class="tg-yw4l">  </th>   
+  </tr>
+
   
 </table>
 
