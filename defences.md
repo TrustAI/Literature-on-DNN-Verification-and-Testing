@@ -180,6 +180,12 @@
     <th class="tg-yw4l"> CVPR2018 </th> 
   </tr>
 
+  <tr>      
+    <th class="tg-yw4l">Deflecting Adversarial Attacks with Pixel Deflection</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Prakash_Deflecting_Adversarial_Attacks_CVPR_2018_paper.pdf">link</a> </th> 
+    <th class="tg-yw4l"> CVPR2018 </th> 
+  </tr>
+
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
