@@ -95,6 +95,12 @@
     <th> <a href="https://arxiv.org/abs/1412.5896">link</a> </th>    
     <th class="tg-yw4l"> ICLR2015 </th>   
   </tr>
+
+  <tr>
+    <th class="tg-yw4l">Geometric robustness of deep networks: analysis and improvement</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Kanbak_Geometric_Robustness_of_CVPR_2018_paper.pdf">link</a> </th>    
+    <th class="tg-yw4l"> CVPR2018 </th>   
+  </tr>
   
     
 </table>
