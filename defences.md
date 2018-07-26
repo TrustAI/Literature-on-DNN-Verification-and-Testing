@@ -161,7 +161,13 @@
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Arnab_On_the_Robustness_CVPR_2018_paper.pdf">link</a> </th> 
     <th class="tg-yw4l"> CVPR2018 </th> 
   </tr>
-	
+
+  <tr>      
+    <th class="tg-yw4l">Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Defense_Against_Adversarial_CVPR_2018_paper.pdf">link</a> </th> 
+    <th class="tg-yw4l"> CVPR2018 </th> 
+  </tr>
+
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
