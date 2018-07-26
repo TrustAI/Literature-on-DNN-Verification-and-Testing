@@ -215,6 +215,12 @@
     <th> <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Xie_Adversarial_Examples_for_ICCV_2017_paper.pdf">link</a> </th> 
     <th class="tg-yw4l"> ICCV2017 </th> 
   </tr>
+
+   <tr>      
+    <th class="tg-yw4l">Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Oh_Adversarial_Image_Perturbation_ICCV_2017_paper.pdf">link</a> </th> 
+    <th class="tg-yw4l"> ICCV2017 </th> 
+  </tr>
   
 </table>
 
