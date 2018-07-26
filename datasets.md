@@ -46,6 +46,12 @@
     <th class="tg-yw4l"> CVPR2018 </th>   
   </tr>
 
+  <tr>
+    <th class="tg-yw4l"> Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking </th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Radenovic_Revisiting_Oxford_and_CVPR_2018_paper.pdf">link</a> </th>  
+    <th class="tg-yw4l"> CVPR2018 </th>   
+  </tr>
+
   
 </table>
 
