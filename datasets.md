@@ -52,6 +52,12 @@
     <th class="tg-yw4l"> CVPR2018 </th>   
   </tr>
 
+  <tr>
+    <th class="tg-yw4l"> LiDAR-Video Driving Dataset: Learning Driving Policies Effectively </th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.pdf">link</a> </th>  
+    <th class="tg-yw4l"> CVPR2018 </th>   
+  </tr>
+
   
 </table>
 
