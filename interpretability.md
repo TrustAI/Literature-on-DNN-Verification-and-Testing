@@ -335,6 +335,12 @@
     <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Towards_a_Mathematical_CVPR_2018_paper.pdf">link</a> </th>   
     <th class="tg-yw4l">CVPR2018</th>   
   </tr> 
+
+  <tr>
+    <th class="tg-yw4l"> What Do Deep Networks Like to See?</th> 
+    <th> <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Palacio_What_Do_Deep_CVPR_2018_paper.pdf">link</a> </th>   
+    <th class="tg-yw4l">CVPR2018</th>   
+  </tr> 
 	
 </table>
 
