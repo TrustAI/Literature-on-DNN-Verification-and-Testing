@@ -83,6 +83,12 @@
     <th class="tg-yw4l"> </th>   
   </tr>
     
+  <tr>
+    <th class="tg-yw4l"> Symbolic Execution for Deep Neural Networks </th> 
+    <th> <a href="https://128.84.21.199/pdf/1807.10439.pdf">link</a> </th>    
+    <th class="tg-yw4l"> </th>   
+  </tr>
+    
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
