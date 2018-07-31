@@ -89,6 +89,12 @@
     <th class="tg-yw4l"> </th>   
   </tr>
     
+  <tr>
+    <th class="tg-yw4l">  TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing </th> 
+    <th> <a href="https://arxiv.org/pdf/1807.10875.pdf">link</a> </th>    
+    <th class="tg-yw4l"> </th>   
+  </tr>
+    
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
