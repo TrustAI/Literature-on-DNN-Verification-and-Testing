@@ -414,6 +414,13 @@
     <th class="tg-yw4l">ECCV2016</th>   
   </tr> 
 
+  <tr>
+    <th class="tg-yw4l"> Pattern Mining Saliency</th> 
+    <th> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-46466-4_35.pdf">link</a> </th>   
+    <th class="tg-yw4l">ECCV2016</th>   
+  </tr> 
+
+
 </table>
 
 <a href="https://github.com/TrustAI/Literature-on-DNN-Verification-and-Testing">Back</a>
