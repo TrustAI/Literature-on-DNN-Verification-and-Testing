@@ -105,6 +105,12 @@
     <th> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_48.pdf">link</a> </th>  
     <th class="tg-yw4l"> ECCV2016 </th>   
   </tr>
+
+  <tr>
+    <th class="tg-yw4l"> A Benchmark for Automatic Visual Classification of Clinical Skin Disease Images </th> 
+    <th> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-46466-4_13.pdf">link</a> </th>  
+    <th class="tg-yw4l"> ECCV2016 </th>   
+  </tr>
   
 </table>
 
