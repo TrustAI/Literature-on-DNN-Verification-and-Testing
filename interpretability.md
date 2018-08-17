@@ -420,6 +420,12 @@
     <th class="tg-yw4l">ECCV2016</th>   
   </tr> 
 
+  <tr>
+    <th class="tg-yw4l"> Design of Kernels in Convolutional Neural Networks for Image Classification</th> 
+    <th> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-46478-7_4.pdf">link</a> </th>   
+    <th class="tg-yw4l">ECCV2016</th>   
+  </tr> 
+
 
 </table>
 
