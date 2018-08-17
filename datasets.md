@@ -99,6 +99,12 @@
     <th> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_6.pdf">link</a> </th>  
     <th class="tg-yw4l"> ECCV2016 </th>   
   </tr>
+
+  <tr>
+    <th class="tg-yw4l"> A Large Contextual Dataset for Classification, Detection and Counting of Cars with Deep Learning </th> 
+    <th> <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_48.pdf">link</a> </th>  
+    <th class="tg-yw4l"> ECCV2016 </th>   
+  </tr>
   
 </table>
 
